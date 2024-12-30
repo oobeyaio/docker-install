@@ -3,5 +3,5 @@
 ### Ubuntu 24.04 LTS
 
 ```
-$ curl https://raw.githubusercontent.com/oobeyaio/docker-install/refs/heads/main/24.04-LTS-docker.sh | bash -
+$ curl https://raw.githubusercontent.com/oobeyaio/docker-install/refs/heads/main/Ubuntu/24.04-LTS-docker.sh | bash -
 ```
